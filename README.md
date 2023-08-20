@@ -16,7 +16,11 @@ The rate of data inflow and decision outflow is increasingly getting faster and 
 
 This repository records the diffusion of BW in Business. 
 
-### AOM2023
+### Resource
+- Aki Vehtari's [textbook recommendation]([url](https://statmodeling.stat.columbia.edu/2018/05/14/aki_books/?fbclid=IwAR3RCtjqrVv0PODWGl6BaTllTRroVB5SLtkSakCgcSYewgrIVr4JCiMUyuk)) 
+
+### Events
+#### AOM2023
 We had two sessions on Bayes (PDW and Symposium) with the following content:
 
 Professional Development Workshop
