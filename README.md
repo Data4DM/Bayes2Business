@@ -27,9 +27,9 @@ Professional Development Workshop
 1. Fundamental Advantages of Bayesian Statistics by David Krackhardt (Carnegie Mellon University)
 2. Executing Bayesian Mgt. Research by Mark Hansen (Brigham Young University)
 3. Bayesian Priors by Andreas Schwab (Iowa State University)
-4. Execution of Bayesian Analysis: MCMC and Software Solutions by Jeffrey Dotson (Brigham Young University) and Anup Nandialath (U of Wisconsin)
+4. Execution of Bayesian Analysis: MCMC and Software Solutions by Jeffrey Dotson (Brigham Young University) and Anup Nandialath (University of Wisconsin)
 5. Publishing Bayesian Studies in Management Journals by Mark Hansen (Brigham Young University)
-6. Persuading Reviewers and Editors to Publish Bayesian Analyses by William Starbuck (University of Oregon)
+6. Persuading Reviewers and Editors to Publish Bayesian Analyses by Bill Starbuck (University of Oregon)
 
 Symposium
 1. Advantages of Bayesian Statistics by David Krackhardt
@@ -37,3 +37,14 @@ Symposium
 3. Why has Bayesian Analysis been used so little? by Bill Starbuck
 
 With BW angle, Angie classified the nine based on why and how each presentation supports Bayesian Inference or Bayesian workflow in [this](https://github.com/Data4DM/Bayes2Business/tree/main/slide) repository. The abstract of each talk may be added.
+
+List of supporters
+- Andrew Gelman (Columbia Univ.)
+- James Evans (Univ. of Chicago)
+- David Krackhardt (Carnegie Mellon University)
+- Mark Hansen (Brigham Young University)
+- Andreas Schwab (Iowa State University)
+- Jeffrey Dotson (Brigham Young University)
+- Anup Nandialath (University of Wisconsin)
+- Bill Starbuck (University of Oregon)
+  
