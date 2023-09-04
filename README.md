@@ -20,7 +20,7 @@ This repository records the diffusion of BW in Business.
 - Aki Vehtari's [textbook recommendation]([url](https://statmodeling.stat.columbia.edu/2018/05/14/aki_books/?fbclid=IwAR3RCtjqrVv0PODWGl6BaTllTRroVB5SLtkSakCgcSYewgrIVr4JCiMUyuk)) 
 
 ### Events
-#### AOM2023
+#### AOM conference (08/01/2023)
 We had two sessions on Bayes (PDW and Symposium) with the following content:
 
 Professional Development Workshop
@@ -38,13 +38,17 @@ Symposium
 
 With BW angle, Angie classified the nine based on why and how each presentation supports Bayesian Inference or Bayesian workflow in [this](https://github.com/Data4DM/Bayes2Business/tree/main/slide) repository. The abstract of each talk may be added.
 
-List of supporters
+#### System dynamics seminar (10/20/2023)
+- thoughts being developed in https://github.com/Data4DM/BayesSD/discussions/156
+
+## List of supporters
+- Charlie Fine (MIT)
 - Andrew Gelman (Columbia Univ.)
 - James Evans (Univ. of Chicago)
-- David Krackhardt (Carnegie Mellon University)
-- Mark Hansen (Brigham Young University)
-- Andreas Schwab (Iowa State University)
-- Jeffrey Dotson (Brigham Young University)
-- Anup Nandialath (University of Wisconsin)
-- Bill Starbuck (University of Oregon)
-  
+- David Krackhardt (Carnegie Mellon Univ.)
+- Mark Hansen (Brigham Young Univ.)
+- Andreas Schwab (Iowa State Univ.)
+- Jeffrey Dotson (Brigham Young Univ.)
+- Anup Nandialath (Univ. of Wisconsin)
+- Bill Starbuck (Univ. of Oregon)
+- Özge Karanfil (Koç Univ.)
