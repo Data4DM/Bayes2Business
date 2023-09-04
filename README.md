@@ -17,7 +17,7 @@ The rate of data inflow and decision outflow is increasingly getting faster and 
 This repository records the diffusion of BW in Business. 
 
 ### Resource
-- Aki Vehtari's [textbook recommendation]([url](https://statmodeling.stat.columbia.edu/2018/05/14/aki_books/?fbclid=IwAR3RCtjqrVv0PODWGl6BaTllTRroVB5SLtkSakCgcSYewgrIVr4JCiMUyuk)) 
+- Aki Vehtari's [textbook recommendation](https://statmodeling.stat.columbia.edu/2018/05/14/aki_books/?fbclid=IwAR3RCtjqrVv0PODWGl6BaTllTRroVB5SLtkSakCgcSYewgrIVr4JCiMUyuk)
 
 ### Events
 #### AOM conference (08/01/2023)
@@ -37,6 +37,8 @@ Symposium
 3. Why has Bayesian Analysis been used so little? by Bill Starbuck
 
 With BW angle, Angie classified the nine based on why and how each presentation supports Bayesian Inference or Bayesian workflow in [this](https://github.com/Data4DM/Bayes2Business/tree/main/slide) repository. The abstract of each talk may be added.
+
+gathering: <img width="300" alt="bayes_aom" src="https://github.com/Data4DM/Bayes2Business/assets/30194633/ad89475d-6f7f-4de1-adda-f44faa1eb333">
 
 #### System dynamics seminar (10/20/2023)
 - thoughts being developed in https://github.com/Data4DM/BayesSD/discussions/156
