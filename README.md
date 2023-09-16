@@ -54,3 +54,7 @@ gathering: <img width="300" alt="bayes_aom" src="https://github.com/Data4DM/Baye
 - Anup Nandialath (Univ. of Wisconsin)
 - Bill Starbuck (Univ. of Oregon)
 - Özge Karanfil (Koç Univ.)
+
+(invitation in progress)
+-  Rahul Bhui (MIT)
+-  Abdullah Almaatouq (MIT)
