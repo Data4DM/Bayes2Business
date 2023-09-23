@@ -44,17 +44,21 @@ gathering: <img width="300" alt="bayes_aom" src="https://github.com/Data4DM/Baye
 - thoughts being developed in https://github.com/Data4DM/BayesSD/discussions/156
 
 ## List of supporters
+(in order of joining)
 - Charlie Fine (MIT)
-- Andrew Gelman (Columbia Univ.)
-- James Evans (Univ. of Chicago)
-- David Krackhardt (Carnegie Mellon Univ.)
-- Mark Hansen (Brigham Young Univ.)
-- Andreas Schwab (Iowa State Univ.)
 - Jeffrey Dotson (Brigham Young Univ.)
-- Anup Nandialath (Univ. of Wisconsin)
+- Mark Hansen (Brigham Young Univ.)
+- David Krackhardt (Carnegie Mellon Univ.)
+- Andreas Schwab (Iowa State Univ.)
 - Bill Starbuck (Univ. of Oregon)
+- James Evans (Univ. of Chicago)
+- Andrew Gelman (Columbia Univ.)
+- Hazhir Rahmandad (MIT)
+- Anup Nandialath (Univ. of Wisconsin)
 - Özge Karanfil (Koç Univ.)
-
+  
 (invitation in progress)
+- Scott Stern (MIT)
+- Joshua Gans (Toronto Univ.)
 -  Rahul Bhui (MIT)
 -  Abdullah Almaatouq (MIT)
