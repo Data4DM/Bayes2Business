@@ -56,12 +56,13 @@ gathering: <img width="300" alt="bayes_aom" src="https://github.com/Data4DM/Baye
 - Hazhir Rahmandad (MIT)
 - Anup Nandialath (Univ. of Wisconsin)
 - Özge Karanfil (Koç Univ.)
-  
+- Matt Cronin (George Mason University)
+- Abdullah Almaatouq (MIT)
+
 (invitation in progress)
 - Scott Stern (MIT)
 - Joshua Gans (Toronto Univ.)
--  Rahul Bhui (MIT)
--  Abdullah Almaatouq (MIT)
+- Rahul Bhui (MIT)
 
 ## Expectation from supporters
 - speaker of events to teach Bayes application and methodology (e.g. AOM or Bayesian entrepreneurship conference); Angie created a mailing list "bayes in business". Supporters would be automatically added to the mailing list, but feel free to unsubscribe.
